@@ -7,3 +7,4 @@ The link to the questions are listed below: <br /><br />
 04 [Sum of Digits](https://www.codechef.com/problems/FLOW006) <br />
 05 [Rectangle](https://www.codechef.com/problems/RECTANGL) <br />
 06 [Lucky Four](https://www.codechef.com/problems/LUCKFOUR) <br />
+07 [Good or Bad Persons](https://www.codechef.com/problems/GOODBAD) <br />
