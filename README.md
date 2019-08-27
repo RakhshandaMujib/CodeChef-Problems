@@ -10,3 +10,4 @@ The link to the questions are listed below: <br /><br />
 07 [Good or Bad Persons](https://www.codechef.com/problems/GOODBAD) <br />
 08 [Chef Drinks Coke](https://www.codechef.com/problems/COKE) <br />
 09 [Studying Alphabet](https://www.codechef.com/problems/ALPHABET) <br />
+10 [Fancy Quotes](https://www.codechef.com/problems/FANCY) <br />
