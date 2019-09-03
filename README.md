@@ -13,3 +13,4 @@ The link to the questions are listed below: <br /><br />
 10 [Fancy Quotes](https://www.codechef.com/problems/FANCY) <br />
 11 [Chef and His Daily Routine](https://www.codechef.com/problems/CHEFROUT) <br />
 12 [Two vs Ten](https://www.codechef.com/problems/TWOVSTEN) <br />
+13 [Encoding Message](https://www.codechef.com/problems/ENCMSG) <br />
