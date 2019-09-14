@@ -15,3 +15,4 @@ The link to the questions are listed below: <br /><br />
 12 [Two vs Ten](https://www.codechef.com/problems/TWOVSTEN) <br />
 13 [Encoding Message](https://www.codechef.com/problems/ENCMSG) <br />
 14 [Eidi Gift](https://www.codechef.com/problems/EID2) <br />
+15 [Train Partner](https://www.codechef.com/problems/ANKTRAIN) <br />
