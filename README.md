@@ -16,3 +16,4 @@ The link to the questions are listed below: <br /><br />
 13 [Encoding Message](https://www.codechef.com/problems/ENCMSG) <br />
 14 [Eidi Gift](https://www.codechef.com/problems/EID2) <br />
 15 [Train Partner](https://www.codechef.com/problems/ANKTRAIN) <br />
+16 [Spell Bob](https://www.codechef.com/problems/SPELLBOB) <br />
