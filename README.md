@@ -18,3 +18,4 @@ The link to the questions are listed below: <br /><br />
 15 [Train Partner](https://www.codechef.com/problems/ANKTRAIN) <br />
 16 [Spell Bob](https://www.codechef.com/problems/SPELLBOB) <br />
 17 [Easy Fibonacci](https://www.codechef.com/problems/FIBEASY) <br />
+18 [Fit Squares in Triangle](https://www.codechef.com/problems/TRISQ) <br />
