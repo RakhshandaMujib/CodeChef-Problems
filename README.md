@@ -19,3 +19,4 @@ The link to the questions are listed below: <br /><br />
 16 [Spell Bob](https://www.codechef.com/problems/SPELLBOB) <br />
 17 [Easy Fibonacci](https://www.codechef.com/problems/FIBEASY) <br />
 18 [Fit Squares in Triangle](https://www.codechef.com/problems/TRISQ) <br />
+19 [Chef and Eid](https://www.codechef.com/problems/EID) <br />
