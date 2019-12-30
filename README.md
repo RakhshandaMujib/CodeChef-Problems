@@ -21,3 +21,4 @@ The link to the questions are listed below: <br /><br />
 18 [Fit Squares in Triangle](https://www.codechef.com/problems/TRISQ) <br />
 19 [Chef and Eid](https://www.codechef.com/problems/EID) <br />
 20 [Guddu on a Date](https://www.codechef.com/problems/KS2) <br />
+21 [Chef Judges a Competition](https://www.codechef.com/problems/CO92JUDG) <br />
