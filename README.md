@@ -23,4 +23,4 @@ The link to the questions are listed below: <br /><br />
 20 [Guddu on a Date](https://www.codechef.com/problems/KS2) <br />
 21 [Chef Judges a Competition](https://www.codechef.com/problems/CO92JUDG) <br />
 22 [All the Gates](https://www.codechef.com/problems/POPGATES) <br />
-22 [Uncle Johny](https://www.codechef.com/problems/JOHNY) <br />
+23 [Uncle Johny](https://www.codechef.com/problems/JOHNY) <br />
