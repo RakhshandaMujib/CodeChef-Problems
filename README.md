@@ -25,3 +25,5 @@ The link to the questions are listed below: <br /><br />
 22 [All the Gates](https://www.codechef.com/problems/POPGATES) <br />
 23 [Uncle Johny](https://www.codechef.com/problems/JOHNY) <br />
 24 [Spam Classification Using Neural Net](https://www.codechef.com/problems/SPAMCLAS) <br /> 
+25 [Bella ciao](https://www.codechef.com/problems/CHFHEIST) <br />
+26 [Summer heat](https://www.codechef.com/JUNE21C/problems/COCONUT/) <br />
